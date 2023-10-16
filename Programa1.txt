@@ -1,0 +1,10 @@
+Main()
+{
+Dim var1 As Integer;
+Dim var2 As Decimal;
+Dim var3, var3 As String;
+
+Var1 := 125;
+Var2 := 125.3;
+Var3 := "Hola Mundo";
+}

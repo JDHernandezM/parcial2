@@ -1,0 +1,195 @@
+C:\Users\Administrador\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Administrador\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Administrador\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Administrador\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Administrador\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Administrador\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Administrador\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Administrador\source\repos\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Administrador\source\repos\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Administrador\source\repos\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Administrador\source\repos\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Administrador\source\repos\Proyecto new\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Administrador\source\repos\Proyecto new\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Administrador\source\repos\Proyecto new\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\oucastro\Downloads\Proyecto new\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\oucastro\Downloads\Proyecto new\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\oucastro\Downloads\Proyecto new\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\oucastro\Downloads\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\oucastro\Downloads\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\oucastro\Downloads\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\oucastro\Downloads\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\oucastro\Downloads\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\oucastro\Downloads\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\oucastro\Downloads\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Administrador\Desktop\Proyecto new\Proyecto new\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Administrador\Desktop\Proyecto new\Proyecto new\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Administrador\Desktop\Proyecto new\Proyecto new\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Administrador\Desktop\Proyecto new\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Proyecto new\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Administrador\Desktop\Proyecto new\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Proyecto new\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\Proyecto new\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Proyecto new\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Administrador\Desktop\Proyecto new\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\oucastro\Desktop\Proyecto new (1)\Proyecto new\Proyecto new\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\oucastro\Desktop\Proyecto new (1)\Proyecto new\Proyecto new\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\oucastro\Desktop\Proyecto new (1)\Proyecto new\Proyecto new\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\oucastro\Desktop\Proyecto new (1)\Proyecto new\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\oucastro\Desktop\Proyecto new (1)\Proyecto new\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\oucastro\Desktop\Proyecto new (1)\Proyecto new\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\oucastro\Desktop\Proyecto new (1)\Proyecto new\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\oucastro\Desktop\Proyecto new (1)\Proyecto new\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\oucastro\Desktop\Proyecto new (1)\Proyecto new\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\oucastro\Desktop\Proyecto new (1)\Proyecto new\Proyecto new\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+Y:\DEV\Other\Analizador Lexico\Proyecto\bin\Debug\Proyecto.exe.config
+Y:\DEV\Other\Analizador Lexico\Proyecto\bin\Debug\Proyecto.exe
+Y:\DEV\Other\Analizador Lexico\Proyecto\bin\Debug\Proyecto.pdb
+Y:\DEV\Other\Analizador Lexico\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+Y:\DEV\Other\Analizador Lexico\Proyecto\obj\Debug\Proyecto.Form1.resources
+Y:\DEV\Other\Analizador Lexico\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+Y:\DEV\Other\Analizador Lexico\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+Y:\DEV\Other\Analizador Lexico\Proyecto\obj\Debug\Proyecto.exe
+Y:\DEV\Other\Analizador Lexico\Proyecto\obj\Debug\Proyecto.pdb
+C:\USPG\ProyectoDisc\Proyecto\bin\Debug\Proyecto.exe.config
+C:\USPG\ProyectoDisc\Proyecto\bin\Debug\Proyecto.exe
+C:\USPG\ProyectoDisc\Proyecto\bin\Debug\Proyecto.pdb
+C:\USPG\ProyectoDisc\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\USPG\ProyectoDisc\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\USPG\ProyectoDisc\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\USPG\ProyectoDisc\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\USPG\ProyectoDisc\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\USPG\ProyectoDisc\Proyecto\obj\Debug\Proyecto.exe
+C:\USPG\ProyectoDisc\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\oucastro\Downloads\ProyectoDisc\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\oucastro\Downloads\ProyectoDisc\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\oucastro\Downloads\ProyectoDisc\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\oucastro\Downloads\ProyectoDisc\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\oucastro\Downloads\ProyectoDisc\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\oucastro\Downloads\ProyectoDisc\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\oucastro\Downloads\ProyectoDisc\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\oucastro\Downloads\ProyectoDisc\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\oucastro\Downloads\ProyectoDisc\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\oucastro\Downloads\ProyectoDisc\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\oucastro\Downloads\ProyectoDisc\Proyecto\bin\Debug\MySql.Data.dll
+C:\Users\oucastro\Downloads\ProyectoDisc\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\oucastro\Downloads\ProyectoDisc\Proyecto\bin\Debug\ZstdNet.dll
+C:\Users\oucastro\Downloads\ProyectoDisc\Proyecto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\oucastro\Downloads\ProyectoDisc\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\oucastro\Downloads\ProyectoDisc\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\oucastro\Downloads\ProyectoDisc\Proyecto\bin\Debug\System.Memory.dll
+C:\Users\oucastro\Downloads\ProyectoDisc\Proyecto\bin\Debug\System.Buffers.dll
+C:\Users\oucastro\Downloads\ProyectoDisc\Proyecto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\oucastro\Downloads\ProyectoDisc\Proyecto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\oucastro\Downloads\ProyectoDisc\Proyecto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\oucastro\Downloads\ProyectoDisc\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\oucastro\Downloads\ProyectoDisc\Proyecto\obj\Debug\Proyecto.exe.config
+C:\Users\oucastro\Downloads\ProyectoDisc\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\ZstdNet.dll
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\System.Memory.dll
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\System.Buffers.dll
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\MySql.Data.dll
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\Google.Protobuf.pdb
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\Google.Protobuf.xml
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\System.Buffers.xml
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\System.Memory.xml
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrador\Desktop\ProyectoDisc\ProyectoDisc\Proyecto\obj\Debug\Proyecto.Form2.resources
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\MySql.Data.dll
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\System.Buffers.dll
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\System.Memory.dll
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\ZstdNet.dll
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\Google.Protobuf.pdb
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\Google.Protobuf.xml
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\System.Buffers.xml
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\System.Memory.xml
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\obj\Debug\Proyecto.Form2.resources
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Administrador\Desktop\ProyectoDisc\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\MySql.Data.dll
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\System.Buffers.dll
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\System.Memory.dll
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\ZstdNet.dll
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\Google.Protobuf.pdb
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\Google.Protobuf.xml
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\System.Buffers.xml
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\System.Memory.xml
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\obj\Debug\Proyecto.palabra_reservada.resources
+C:\Users\fidel\Desktop\ProyectoDisc\Proyecto\obj\Debug\Proyecto.tokens_bd.resources
