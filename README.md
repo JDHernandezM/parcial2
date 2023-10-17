@@ -1,5 +1,5 @@
 # parcial2
-realizado por Pablo, Maria, Josue, Hillary
+Realizado por Pablo, Maria, Josue, Hillary
 Analizador Lexico y sintactico
 Analizador Sintáctico para Tokens de Lenguaje de Programación
 Este proyecto es un Analizador Sintáctico diseñado para leer y analizar los tokens generados por un Analizador Léxico. Su función principal es validar la estructura sintáctica de un conjunto de tokens, asegurando que cumplan con ciertas reglas específicas, como la correcta apertura y cierre de corchetes, paréntesis y llaves, así como la estructura adecuada de sentencias "if" y "for" en un lenguaje de programación.
