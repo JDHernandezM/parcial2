@@ -40,7 +40,7 @@ namespace Compiladores
         }
         private void cargarArchivo_Click(object sender, EventArgs e)
         {
-            Entrada.Text = File.ReadAllText(@"C:\prueba_final.txt");
+            Entrada.Text = File.ReadAllText(@"C:prueba_final.txt");
         }
         private void cargarDirectorio_Click(object sender, EventArgs e)
         {
@@ -218,7 +218,7 @@ namespace Compiladores
             string datos = Salida.Text;
 
             // Ruta del archivo donde se almacenarán los datos
-            string rutaArchivo = "C:/Users/LENOVO/Desktop/Compiladores_Josue/archivo.txt";
+            string rutaArchivo = "C:/Users/jhern/Desktop/examen_p_2/archivo.txt";
 
             // Llamada a la función para escribir en el archivo
             EscribirEnArchivo(datos, rutaArchivo);
