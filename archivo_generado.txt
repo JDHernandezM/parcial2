@@ -1,0 +1,70 @@
+Main,  Palabra Reservada
+(,  Signo de Puntuación
+),  Signo de Puntuación
+{,  Signo de Puntuación
+Dim,  Palabra Reservada
+var1,  Id
+As,  Palabra Reservada
+Integer,  Tipo
+;,  Signo de Puntuación
+Dim,  Palabra Reservada
+var2,  Id
+As,  Palabra Reservada
+Decimal,  Tipo
+;,  Signo de Puntuación
+Dim,  Palabra Reservada
+var3,  Id
+,,  Signo de Puntuación Coma
+var4,  Id
+As,  Palabra Reservada
+String,  Tipo
+;,  Signo de Puntuación
+Var1,  Id
+:=,  Operador Asignacion
+125,  Número Entero
+;,  Signo de Puntuación
+Var2,  Id
+:=,  Operador Asignacion
+125.3,  Número Decimal
+;,  Signo de Puntuación
+Var3,  Id
+:=,  Operador Asignacion
+"Hola Mundo",  Cadena
+;,  Signo de Puntuación
+If,  Palabra Reservada
+(,  Signo de Puntuación
+var1,  Id
+=,  Operador
+var2,  Id
+),  Signo de Puntuación
+Then,  Palabra Reservada
+{,  Signo de Puntuación
+jesus,  Id
+:=,  Operador Asignacion
+josue,  Id
+;,  Signo de Puntuación
+josue,  Id
+:=,  Operador Asignacion
+bueno,  Id
+;,  Signo de Puntuación
+},  Signo de Puntuación
+For,  Palabra Reservada
+(,  Signo de Puntuación
+int,  Id
+i,  Id
+=,  Operador
+5,  Número Entero
+;,  Signo de Puntuación
+i,  Id
+=,  Operador
+10,  Número Entero
+;,  Signo de Puntuación
+i++,  Operador Incremento
+),  Signo de Puntuación
+{,  Signo de Puntuación
+jesus,  Id
+:=,  Operador Asignacion
+hermoso,  Id
+;,  Signo de Puntuación
+},  Signo de Puntuación
+},  Signo de Puntuación

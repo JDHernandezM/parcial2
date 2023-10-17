@@ -49,14 +49,14 @@ namespace Compiladores
             this.Salida2 = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.tokensToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.iDSToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.simbolosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.operadoresToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.menuStrip1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            this.DataMostrar = new System.Windows.Forms.DataGridView();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
+            this.Lexema = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Token1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            ((System.ComponentModel.ISupportInitialize)(this.DataMostrar)).BeginInit();
             this.SuspendLayout();
             // 
             // Entrada
@@ -246,52 +246,65 @@ namespace Compiladores
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // menuStrip1
+            // DataMostrar
             // 
-            this.menuStrip1.BackColor = System.Drawing.SystemColors.ButtonShadow;
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.tokensToolStripMenuItem,
-            this.iDSToolStripMenuItem,
-            this.simbolosToolStripMenuItem,
-            this.operadoresToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(945, 24);
-            this.menuStrip1.TabIndex = 23;
-            this.menuStrip1.Text = "menuStrip1";
+            this.DataMostrar.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.DataMostrar.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.Lexema,
+            this.Token1});
+            this.DataMostrar.Location = new System.Drawing.Point(12, 567);
+            this.DataMostrar.Name = "DataMostrar";
+            this.DataMostrar.Size = new System.Drawing.Size(488, 188);
+            this.DataMostrar.TabIndex = 24;
             // 
-            // tokensToolStripMenuItem
+            // button2
             // 
-            this.tokensToolStripMenuItem.Name = "tokensToolStripMenuItem";
-            this.tokensToolStripMenuItem.Size = new System.Drawing.Size(55, 20);
-            this.tokensToolStripMenuItem.Text = "Tokens";
+            this.button2.Location = new System.Drawing.Point(800, 198);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(128, 23);
+            this.button2.TabIndex = 25;
+            this.button2.Text = "Tokens";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
-            // iDSToolStripMenuItem
+            // button3
             // 
-            this.iDSToolStripMenuItem.Name = "iDSToolStripMenuItem";
-            this.iDSToolStripMenuItem.Size = new System.Drawing.Size(36, 20);
-            this.iDSToolStripMenuItem.Text = "IDS";
-            this.iDSToolStripMenuItem.Click += new System.EventHandler(this.iDSToolStripMenuItem_Click);
+            this.button3.Location = new System.Drawing.Point(800, 227);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(128, 23);
+            this.button3.TabIndex = 26;
+            this.button3.Text = "IDS";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click_1);
             // 
-            // simbolosToolStripMenuItem
+            // button4
             // 
-            this.simbolosToolStripMenuItem.Name = "simbolosToolStripMenuItem";
-            this.simbolosToolStripMenuItem.Size = new System.Drawing.Size(68, 20);
-            this.simbolosToolStripMenuItem.Text = "Simbolos";
+            this.button4.Location = new System.Drawing.Point(800, 256);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(128, 23);
+            this.button4.TabIndex = 27;
+            this.button4.Text = "Operadores";
+            this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click_1);
             // 
-            // operadoresToolStripMenuItem
+            // button5
             // 
-            this.operadoresToolStripMenuItem.Name = "operadoresToolStripMenuItem";
-            this.operadoresToolStripMenuItem.Size = new System.Drawing.Size(80, 20);
-            this.operadoresToolStripMenuItem.Text = "Operadores";
+            this.button5.Location = new System.Drawing.Point(800, 285);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(128, 23);
+            this.button5.TabIndex = 28;
+            this.button5.Text = "Simbolos";
+            this.button5.UseVisualStyleBackColor = true;
             // 
-            // dataGridView1
+            // Lexema
             // 
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(12, 567);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(488, 188);
-            this.dataGridView1.TabIndex = 24;
+            this.Lexema.HeaderText = "Lexema";
+            this.Lexema.Name = "Lexema";
+            // 
+            // Token1
+            // 
+            this.Token1.HeaderText = "Token1";
+            this.Token1.Name = "Token1";
             // 
             // Form1
             // 
@@ -299,7 +312,11 @@ namespace Compiladores
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Highlight;
             this.ClientSize = new System.Drawing.Size(945, 821);
-            this.Controls.Add(this.dataGridView1);
+            this.Controls.Add(this.button5);
+            this.Controls.Add(this.button4);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.DataMostrar);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.Salida2);
@@ -318,15 +335,11 @@ namespace Compiladores
             this.Controls.Add(this.label1);
             this.Controls.Add(this.Salida);
             this.Controls.Add(this.Entrada);
-            this.Controls.Add(this.menuStrip1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "Compiladores";
             this.Load += new System.EventHandler(this.Form1_Load);
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.DataMostrar)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -353,12 +366,13 @@ namespace Compiladores
         private System.Windows.Forms.TextBox Salida2;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem tokensToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem iDSToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem simbolosToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem operadoresToolStripMenuItem;
-        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridView DataMostrar;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Lexema;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Token1;
     }
 }
 

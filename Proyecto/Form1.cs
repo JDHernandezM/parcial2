@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
-
+using Proyecto;
 
 namespace Compiladores
 {
@@ -26,6 +26,7 @@ namespace Compiladores
             Entrada.ScrollBars = ScrollBars.Both;
             Salida.ScrollBars = ScrollBars.Both;
             Salida2.ScrollBars = ScrollBars.Both;
+
         }
         private void limpiarEntrada_Click(object sender, EventArgs e)
         {
@@ -40,7 +41,8 @@ namespace Compiladores
         }
         private void cargarArchivo_Click(object sender, EventArgs e)
         {
-            Entrada.Text = File.ReadAllText(@"C:prueba_final.txt");
+           Entrada.Text = File.ReadAllText(@"C:/Users/jhern/Desktop/examen_p_2/Prueba.txt");
+
         }
         private void cargarDirectorio_Click(object sender, EventArgs e)
         {
@@ -135,7 +137,7 @@ namespace Compiladores
                 texto = Entrada.Text;
                 Analizer analiz = new Analizer();
                 analiz.Analizador_cadena(texto);
-                    analiz.generarLista();
+                analiz.generarLista();
                 
             //Salida.Text = analiz.getRetorno();
 
@@ -158,7 +160,6 @@ namespace Compiladores
                 Salida.Text = analiz.getRetorno();
                 Errores.Text = erro_str;
                 Errores.Visible = true;
-
 
 
         }
@@ -218,7 +219,8 @@ namespace Compiladores
             string datos = Salida.Text;
 
             // Ruta del archivo donde se almacenarán los datos
-            string rutaArchivo = "C:/Users/jhern/Desktop/examen_p_2/archivo.txt";
+            string rutaArchivo = "C:/Users/jhern/Desktop/examen_p_2/archivo_generado.txt";
+
 
             // Llamada a la función para escribir en el archivo
             EscribirEnArchivo(datos, rutaArchivo);
@@ -227,6 +229,21 @@ namespace Compiladores
         }
 
         private void iDSToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click_1(object sender, EventArgs e)
         {
 
         }

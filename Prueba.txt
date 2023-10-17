@@ -1,0 +1,17 @@
+Main()
+{
+Dim var1 As Integer;
+Dim var2 As Decimal;
+Dim var3, var4 As String;
+
+Var1 := 125;
+Var2 := 125.3;
+Var3 := "Hola Mundo";
+
+If ( var1 = var2) Then {
+jesus := josue;
+josue := bueno;
+}
+
+For (int i = 5; i = 10; i++) { jesus := hermoso;}
+}

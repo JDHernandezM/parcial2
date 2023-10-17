@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Proyecto;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Data.SqlClient;
@@ -35,7 +36,6 @@ namespace Compiladores
             //errores toks
             listaErrores = new List<ErroresToken>();
         }
-
         public void addToken(String lexema, String idToken, int linea, int columna, int indice, string lexema1)
         {
             //MessageBox.Show("*" + lexema + "* lin: " + linea + " col: " + columna, "Lexema_final");
@@ -503,6 +503,7 @@ namespace Compiladores
                         break;
                 }
             }
+
         }
        
 
@@ -549,16 +550,17 @@ namespace Compiladores
         {
           Token actual = listaTokens.ElementAt(i);
         retorno += actual.getLexema() + ", " + actual.getIdToken() + Environment.NewLine;
+               
 
-        /*if (actual.getLexema() == "Main")
-        {
-            MessageBox.Show("Programa Válido");
-        }
-        else
-        {
-            MessageBox.Show("Programa inválido");
-        }*/
-         }
+                /*if (actual.getLexema() == "Main")
+                {
+                    MessageBox.Show("Programa Válido");
+                }
+                else
+                {
+                    MessageBox.Show("Programa inválido");
+                }*/
+            }
          }
 
         
@@ -577,6 +579,8 @@ namespace Compiladores
         {
             return listaErrores;
         }
+       
     }
+
 }
 
